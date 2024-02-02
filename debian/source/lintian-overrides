@@ -1,0 +1,5 @@
+python-async-timeout source: file-without-copyright-information
+python-async-timeout source: no-debian-changes
+python-async-timeout source: source-contains-prebuilt-windows-binary
+python-async-timeout source: source-is-missing
+python-async-timeout source: source-package-encodes-python-version
